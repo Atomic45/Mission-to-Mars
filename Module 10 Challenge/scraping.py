@@ -113,7 +113,7 @@ def mars_hemis(browser):
         hemispheres['title'] = title
         hemisphere_image_urls.append(hemispheres)
         browser.back()
-    return hemisphere_image_urls
+    return 
 
 if __name__ == "__main__":
 
